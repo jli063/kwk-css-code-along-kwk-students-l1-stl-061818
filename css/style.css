@@ -1,1 +1,14 @@
 /* add CSS class and element and selectors here */
+
+body {
+  background-color: #A9E8E2;
+  font-size: 200%;
+  
+}
+
+.jessSampleClass { 
+  font-family: Comic Sans MS;
+  font-size: 500%;
+  border: 10px dotted blue;
+  background-color: purple; 
+}
